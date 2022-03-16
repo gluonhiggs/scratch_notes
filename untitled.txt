@@ -1,1 +1,4 @@
 Docker is a way to package software so it can run on any hardware.
+Nice sources to read about Docker:
+https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
+https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8
