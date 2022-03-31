@@ -1,4 +1,13 @@
 Docker is a way to package software so it can run on any hardware.
+
 Nice sources to read about Docker:
 https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
 https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8
+
+An article about hyperparameter search for ML or Spark configuration INSIGHT.
+https://towardsdatascience.com/100x-faster-randomized-hyperparameter-searching-framework-with-pyspark-4de19e44f5e6
+This is about how to enhance hyperparameter searching speed, not about improving flow performance.
+
+
+YARN and Spark configuration for boosting performance preference
+https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
