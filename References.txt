@@ -11,3 +11,6 @@ This is about how to enhance hyperparameter searching speed, not about improving
 
 YARN and Spark configuration for boosting performance preference
 https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
+
+Platform, Library, Framework, API, SDK, IDE distinction
+https://shashvatshukla.medium.com/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db
