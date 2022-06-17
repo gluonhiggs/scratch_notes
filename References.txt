@@ -21,3 +21,6 @@ https://towardsdatascience.com/why-you-should-consider-being-a-data-engineer-ins
 
 Books:
 https://towardsdatascience.com/5-books-for-data-engineers-f174bc1e7906
+
+Data Pipeline:
+https://towardsdatascience.com/lets-build-a-streaming-data-pipeline-e873d671fc57
