@@ -24,3 +24,6 @@ https://towardsdatascience.com/5-books-for-data-engineers-f174bc1e7906
 
 Data Pipeline:
 https://towardsdatascience.com/lets-build-a-streaming-data-pipeline-e873d671fc57
+
+ETLT Test:
+https://blog.devgenius.io/how-to-integrate-data-quality-tests-in-the-python-etl-pipeline-359a535de564
