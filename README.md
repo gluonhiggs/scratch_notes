@@ -1,5 +1,11 @@
 # scratch_notes
 A place to note down my collected knowledge
+## An executor of many cores typically will have a large memory pool
+The relationship between cores and memory in a Spark executor is not direct, but it comes from how Spark tasks are distributed and how they use memory.
+
+A Spark application is divided into tasks. These tasks are the smallest unit of work in Spark and they run in separate threads. When you assign multiple cores to an executor, that executor can run multiple tasks in parallel, each task using its own thread. So more cores mean more parallel tasks.
+
+Now, let's talk about memory. Each task needs some amount of memory to hold intermediate data, perform computations, etc. If an executor is running many tasks in parallel (because it has many cores), the total memory required would naturally be higher.
 
 ## Garbage collection and reason why don't assign too many cores for a spark executor
 Garbage collection (GC) is a form of automatic memory management. It's a process that attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program. In the context of Spark and JVM (Java Virtual Machine), these "objects" are pieces of data in memory that your application has created during its execution but are not needed anymore.
