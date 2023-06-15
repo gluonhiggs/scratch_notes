@@ -6,8 +6,6 @@ Garbage collection (GC) is a form of automatic memory management. It's a process
 
 GC operates in a "stop-the-world" manner. This means that while garbage collection is happening, your application stops executing. GC can take some time, depending on the number of objects to deallocate and the total size of your memory pool. The larger the memory pool, the more time it takes to scan and collect the garbage, which can lead to substantial pauses in the execution of your application.
 
-Now, let's map it to the scenario you provided:
-
 In a Spark application, an executor is a distributed agent responsible for executing tasks. When an executor runs a Spark task, it creates objects in memory. Over time, some of these objects become obsolete or unused (garbage) and need to be cleaned up. If an executor is set up with a large memory pool (like 64GB+), it means there can be a large number of objects (and potentially a lot of garbage).
 
 When GC kicks in to clean up these unused objects, it needs to scan the entire memory pool. If the memory pool is very large (like in this case), the GC process can take a long time, causing the executor to pause its processing for the duration. These long GC pauses slow down the overall execution of your Spark job, leading to inefficient processing and longer completion times.
