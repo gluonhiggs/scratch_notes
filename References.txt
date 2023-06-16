@@ -11,6 +11,7 @@ This is about how to enhance hyperparameter searching speed, not about improving
 Spark Performance
 https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
 https://medium.com/expedia-group-tech/part-3-efficient-executor-configuration-for-apache-spark-b4602929262
+https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
 
 Platform, Library, Framework, API, SDK, IDE distinction
 https://shashvatshukla.medium.com/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db
