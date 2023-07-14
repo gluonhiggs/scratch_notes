@@ -13,6 +13,8 @@ https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4
 https://medium.com/expedia-group-tech/part-3-efficient-executor-configuration-for-apache-spark-b4602929262
 
 Handling large json files:
+https://towardsdatascience.com/data-skew-in-pyspark-783d529a9dd7
+https://itnext.io/handling-data-skew-in-apache-spark-9f56343e58e8
 https://towardsdatascience.com/flattening-json-records-using-pyspark-b83137669def
 https://towardsdatascience.com/interactively-analyse-100gb-of-json-data-with-spark-e018f9436e76
 
