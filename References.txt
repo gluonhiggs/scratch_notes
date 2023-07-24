@@ -11,6 +11,7 @@ This is about how to enhance hyperparameter searching speed, not about improving
 Spark Performance
 https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
 https://medium.com/expedia-group-tech/part-3-efficient-executor-configuration-for-apache-spark-b4602929262
+https://towardsdatascience.com/why-apache-spark-is-fast-and-how-to-make-it-run-faster-9d31bf3eae04
 
 Handling large json files:
 https://towardsdatascience.com/data-skew-in-pyspark-783d529a9dd7
