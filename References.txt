@@ -38,3 +38,6 @@ https://towardsdatascience.com/lets-build-a-streaming-data-pipeline-e873d671fc57
 
 ETLT Test:
 https://blog.devgenius.io/how-to-integrate-data-quality-tests-in-the-python-etl-pipeline-359a535de564
+
+My articles:
+https://medium.com/@gluonhiggs/a-view-to-spark-persistence-caching-mechanism-76cd1a3756d6
