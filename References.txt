@@ -42,5 +42,8 @@ https://blog.devgenius.io/how-to-integrate-data-quality-tests-in-the-python-etl-
 My articles:
 https://medium.com/@gluonhiggs/a-view-to-spark-persistence-caching-mechanism-76cd1a3756d6
 
+ML:
+https://medium.com/towards-data-science/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060
+
 Faster DQN:
 https://shmuma.medium.com/speeding-up-dqn-on-pytorch-solving-pong-in-30-minutes-81a1bd2dff55
