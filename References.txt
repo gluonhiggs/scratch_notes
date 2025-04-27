@@ -47,3 +47,6 @@ https://medium.com/towards-data-science/reinforcement-learning-made-simple-part-
 
 Faster DQN:
 https://shmuma.medium.com/speeding-up-dqn-on-pytorch-solving-pong-in-30-minutes-81a1bd2dff55
+
+Multiple GPUs for LLMs
+https://medium.com/@geronimo7/llms-multi-gpu-inference-with-accelerate-5a8333e4c5db
